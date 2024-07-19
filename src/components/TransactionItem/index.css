@@ -1,0 +1,16 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+}
+li > p {
+  margin-right: 50px;
+}
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.dlt-btn-img {
+  height: 20px;
+  width: 20px;
+}
